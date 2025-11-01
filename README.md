@@ -1,7 +1,7 @@
 # PlayerManagementSytem.main
 Mini Project Of ADBMS(SQL)
 <br>
-Author - Vishal Mehta
+Author - Harpreet Singh
 
 # 🏆 Sport Player Management System
 
